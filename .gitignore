@@ -1,0 +1,11 @@
+.svn/
+tmp/
+temp_upload/
+upload/
+.htaccess
+*.php~
+vendors/*
+app/Config/database.php
+app/Config/core.php
+app/Controller/Component
+
